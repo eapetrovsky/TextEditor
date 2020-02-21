@@ -1,0 +1,11 @@
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\bin\Release\TextEditor.BL.dll
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\bin\Release\TextEditor.BL.pdb
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Release\TextEditor.csprojResolveAssemblyReference.cache
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Release\TextEditor.MainForm.resources
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Release\TextEditor.Properties.Resources.resources
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Release\TextEditor.csproj.GenerateResource.Cache
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Release\TextEditor.exe
+C:\Users\Evgeny\Documents\Visual Studio 2013\Projects\TextEditor\TextEditor\obj\Release\TextEditor.pdb
